@@ -1,1 +1,2 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+Let's add an image. Don't forget to include descriptive text in the square brackets. This text is read aloud for people using screen readers. It's also shown at times when your image doesn't display, such as when there's a poor connection. You can see the syntax for images below:
+![9f510fb30f2442a7c974d27bd1641343d01302a0](https://user-images.githubusercontent.com/86720683/124228931-78bce500-db3f-11eb-920d-15dabd542ddb.png)
